@@ -1,0 +1,17 @@
+.thumbnail-card {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.thumbnail-onclick {
+  opacity: 0.5;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}

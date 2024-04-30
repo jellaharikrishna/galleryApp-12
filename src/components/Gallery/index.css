@@ -1,0 +1,23 @@
+.app-container {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+.image-url {
+  width: 100%;
+}
+.title {
+  font-family: Roboto;
+  color: black;
+}
+.sub-title {
+  font-family: Roboto;
+  color: #64748b;
+}
+.thumbnail-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 0;
+}
